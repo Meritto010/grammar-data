@@ -1,249 +1,337 @@
 {
   "basics": {
-    "title": "Grammar Basics",
-    "goal": "Build a strong foundation for clear and natural spoken English.",
+    "title": "Grammar Basics-UPDATED",
+    "goal": "Build an strong foundation in essential grammar for clear and natural spoken English.",
     "topics": [
       {
-        "id": "pronouns",
-        "title": "Talking About People & Things",
-        "cefr_level": "A1",
-        "cando": "I can talk about myself and others without repeating names.",
-        "definition": "Short words that replace nouns to make sentences flow better.",
-        "tip": "Use these to keep your speech natural and quick.",
+        "id": "word_classes",
+        "title": "Word Classes",
+        "definition": "Word classes are categories of words based on their grammatical function in a sentence.",
+        "tip": "Common word classes include nouns, pronouns, verbs, adjectives, adverbs, determiners, prepositions, conjunctions, and interjections.",
         "examples": [
-          { "s": "I ordered the pasta, and it arrived quickly.", "n": "Use 'it' instead of repeating 'the pasta'." }
+          { "s": "The conference starts tomorrow.", "n": "'Conference' is a noun; it names a thing." },
+          { "s": "She arrived early.", "n": "'She' is a pronoun; it replaces a noun." },
+          { "s": "They discussed the proposal.", "n": "'Discussed' is a verb; it expresses an action." }
+        ]
+      },
+      {
+        "id": "sentence_roles",
+        "title": "Sentence Roles",
+        "definition": "Sentence roles describe the function that words or phrases perform within a sentence, such as subject, verb, object, and complement.",
+        "tip": "Most English sentences follow patterns such as Subject + Verb or Subject + Verb + Object.",
+        "examples": [
+          { "s": "Birds fly.", "n": "'Birds' is the subject and 'fly' is the verb." },
+          { "s": "She reads books.", "n": "'She' is the subject, 'reads' is the verb, and 'books' is the object." },
+          { "s": "The office is busy.", "n": "'Busy' is a complement that describes the subject." }
+        ]
+      },
+      {
+        "id": "pronouns",
+        "title": "Pronouns",
+        "definition": "A pronoun is a word that functions as a noun and substitutes for a noun or noun phrase in a sentence.",
+        "tip": "Pronouns help maintain clarity and avoid repetition in spoken communication.",
+        "examples": [
+          { "s": "I ordered the pasta, and it arrived quickly.", "n": "'I' is a subject pronoun; used here as the subject of the verb." },
+          { "s": "She asked him if he wanted coffee.", "n": "'Him' is an object pronoun; used here as the object of the verb." },
+          { "s": "They booked the tickets, but we chose a different date.", "n": "'They' and 'we' are subject pronouns; used here to refer to different subjects." }
         ]
       },
       {
         "id": "determiners_quantifiers",
-        "title": "Specifying Amounts",
-        "cefr_level": "A1",
-        "cando": "I can clearly indicate quantities of items or people.",
-        "definition": "Words placed before nouns to specify or indicate amounts.",
-        "tip": "These make your requests and descriptions precise.",
+        "title": "Determiners and Quantifiers",
+        "definition": "Determiners and quantifiers are words placed before nouns to limit, specify, or indicate quantity.",
+        "tip": "They help make meaning precise in everyday conversation.",
         "examples": [
-          { "s": "Some people prefer tea after meals.", "n": "'Some' helps you describe groups without being overly specific." }
+          { "s": "This restaurant gets very busy in the evening.", "n": "'This' is a demonstrative determiner; used here to specify a noun." },
+          { "s": "Some people prefer tea after meals.", "n": "'Some' is a quantifier; used here with a plural noun." },
+          { "s": "Many travelers visit the city during summer.", "n": "'Many' is a quantifier; used here with a countable plural noun." }
         ]
       },
       {
         "id": "possessives",
-        "title": "Describing Ownership",
-        "cefr_level": "A1",
-        "cando": "I can talk about my things and my relationships.",
-        "definition": "Words that show who owns or is related to something.",
-        "tip": "These are essential for talking about your daily life.",
+        "title": "Possessives",
+        "definition": "Possessive forms are used to indicate ownership or a relationship between nouns.",
+        "tip": "Possessives are common in spoken English when referring to personal items or relationships.",
         "examples": [
-          { "s": "This is my favorite café.", "n": "'My' clearly links you to the object." }
+          { "s": "This is my favorite café near home.", "n": "'My' is a possessive adjective; used here to show ownership." },
+          { "s": "Her bag is on the chair by the door.", "n": "'Her' is a possessive adjective; used here to modify a noun." },
+          { "s": "Their flight was delayed because of the weather.", "n": "'Their' is a possessive adjective; used here with a plural subject." }
         ]
       },
       {
         "id": "adjectives",
-        "title": "Adding Details",
-        "cefr_level": "A1",
-        "cando": "I can describe the quality, size, or condition of things.",
-        "definition": "Words that add detail to nouns.",
-        "tip": "Use these to make your descriptions more vivid.",
+        "title": "Adjectives",
+        "definition": "An adjective is a word that modifies a noun by describing its quality, size, or condition.",
+        "tip": "Adjectives add detail and clarity to spoken descriptions.",
         "examples": [
-          { "s": "The soup was tasty.", "n": "'Tasty' describes the quality of the soup." }
+          { "s": "The soup was hot and very tasty.", "n": "'Hot' and 'tasty' are adjectives; used here to describe a noun." },
+          { "s": "It was a long trip, but everyone enjoyed it.", "n": "'Long' is an adjective; used here before a noun." },
+          { "s": "The beach looks beautiful at sunset.", "n": "'Beautiful' is an adjective; used here after a linking verb." }
         ]
       },
       {
         "id": "adverbials",
-        "title": "Describing Actions",
-        "cefr_level": "A2",
-        "cando": "I can describe when, where, and how things happen.",
-        "definition": "Words or phrases that add detail to actions.",
-        "tip": "These help you give clear, specific information.",
+        "title": "Adverbials",
+        "definition": "An adverbial is a word or phrase that modifies a verb by expressing time, place, manner, or degree.",
+        "tip": "Adverbials make spoken sentences clearer and more specific.",
         "examples": [
-          { "s": "She spoke calmly.", "n": "'Calmly' describes how she performed the action." }
+          { "s": "We usually eat dinner outside during summer.", "n": "'Usually' is an adverbial; used here to indicate frequency." },
+          { "s": "She spoke calmly even during the delay.", "n": "'Calmly' is an adverbial; used here to describe manner." },
+          { "s": "They arrived early for the tour.", "n": "'Early' is an adverbial; used here to indicate time." }
         ]
       },
       {
         "id": "nouns",
-        "title": "Naming Things",
-        "cefr_level": "A1",
-        "cando": "I can name people, places, and things in my life.",
-        "definition": "Words for people, places, things, or ideas.",
-        "tip": "Clear naming helps others understand exactly what you mean.",
+        "title": "Nouns",
+        "definition": "A noun is a word that names a person, place, thing, or abstract idea.",
+        "tip": "Clear use of nouns helps listeners understand who or what is being discussed.",
         "examples": [
-          { "s": "The market is open.", "n": "'Market' names the place being discussed." }
+          { "s": "The market opens early on weekends.", "n": "'Market' is a singular countable noun; used here as the subject." },
+          { "s": "The streets are crowded during festivals.", "n": "'Streets' is a plural noun; used here with a plural verb." },
+          { "s": "Information is easy to find online now.", "n": "'Information' is an uncountable noun; used here without a plural form." }
         ]
       },
       {
         "id": "verbs",
-        "title": "Expressing Actions",
-        "cefr_level": "A1",
-        "cando": "I can describe what people are doing or how they feel.",
-        "definition": "Words that express actions or states of being.",
-        "tip": "Verbs are the engine of every sentence.",
+        "title": "Verbs",
+        "definition": "A verb is a word that expresses an action, occurrence, or state of being.",
+        "tip": "Verbs are central to spoken sentences and show what is happening.",
         "examples": [
-          { "s": "I enjoy cooking.", "n": "'Enjoy' expresses your feeling toward an action." }
+          { "s": "I enjoy cooking at home on weekends.", "n": "'Enjoy' is a verb; used here to express an action." },
+          { "s": "She travels often for short vacations.", "n": "'Travels' is a verb; used here in the present simple tense." },
+          { "s": "They are ready to leave now.", "n": "'Are' is a verb; used here to express a state of being." }
         ]
       }
     ]
   },
   "beginner": {
     "title": "Beginner Grammar",
-    "goal": "Speak about your daily life with confidence.",
+    "goal": "Develop accurate sentence formation for everyday spoken English.",
     "topics": [
       {
         "id": "simple_present",
-        "title": "Talking About Routines",
-        "cefr_level": "A1",
-        "cando": "I can describe my daily schedule and habits.",
-        "definition": "The way we talk about things that happen regularly.",
-        "tip": "Perfect for talking about your job or school life.",
+        "title": "Simple Present Tense",
+        "definition": "The simple present tense is used to express habitual actions, general truths, and fixed arrangements.",
+        "tip": "Commonly used to talk about routines and daily activities.",
         "examples": [
-          { "s": "I have breakfast at home.", "n": "This describes a regular morning habit." }
+          { "s": "I usually have breakfast at home.", "n": "'Have' is a main verb in the simple present tense; used for routine." },
+          { "s": "She works near the airport.", "n": "'Works' is a verb in the simple present tense; third person singular form." },
+          { "s": "We travel by train on weekends.", "n": "'Travel' is a verb in the simple present tense; used for habitual action." }
         ]
       },
       {
         "id": "present_continuous",
-        "title": "Talking About Current Events",
-        "cefr_level": "A2",
-        "cando": "I can describe what is happening right now.",
-        "definition": "Used for actions happening at this exact moment.",
-        "tip": "Use this to update people on what you are doing.",
+        "title": "Present Continuous Tense",
+        "definition": "The present continuous tense is used to describe actions happening at the moment of speaking or temporary situations.",
+        "tip": "Often used in spoken English to describe current actions.",
         "examples": [
-          { "s": "I am waiting for my order.", "n": "Describes an action in progress now." }
+          { "s": "I am waiting for my order.", "n": "'Am waiting' is a verb phrase in the present continuous tense." },
+          { "s": "They are staying at a hotel near the beach.", "n": "'Are staying' is a verb phrase in the present continuous tense; temporary action." },
+          { "s": "She is shopping for groceries right now.", "n": "'Is shopping' is a verb phrase in the present continuous tense." }
         ]
       },
       {
         "id": "prepositions_place",
-        "title": "Giving Locations",
-        "cefr_level": "A1",
-        "cando": "I can describe where things and people are located.",
-        "definition": "Words that show the position of one thing to another.",
-        "tip": "Crucial for giving directions or finding items.",
+        "title": "Prepositions of Place",
+        "definition": "Prepositions of place are words used to show the position or location of a noun in relation to another noun.",
+        "tip": "Used frequently while giving directions or describing locations.",
         "examples": [
-          { "s": "The café is near the station.", "n": "'Near' helps people find the location." }
+          { "s": "The café is near the station.", "n": "'Near' is a preposition of place; used to show position." },
+          { "s": "My bag is on the chair.", "n": "'On' is a preposition of place; used to show surface position." },
+          { "s": "The keys are in my pocket.", "n": "'In' is a preposition of place; used here as a grammatical relation." }
         ]
       },
       {
         "id": "articles",
-        "title": "Defining Objects",
-        "cefr_level": "A1",
-        "cando": "I can refer to specific or general objects clearly.",
-        "definition": "Small words used to point to nouns.",
-        "tip": "Using 'a' or 'the' correctly makes you sound fluent.",
+        "title": "Articles (a, an, the)",
+        "definition": "Articles are determiners used before nouns to indicate definiteness or indefiniteness.",
+        "tip": "Correct article usage improves fluency in spoken English.",
         "examples": [
-          { "s": "I booked a hotel.", "n": "'A' indicates one general hotel." }
+          { "s": "I booked a hotel for the night.", "n": "'A' is an indefinite article; used before a singular countable noun." },
+          { "s": "She ordered an apple juice.", "n": "'An' is an indefinite article; used before a vowel sound." },
+          { "s": "The restaurant closes at ten.", "n": "'The' is a definite article; used to refer to a specific noun." }
         ]
       },
       {
         "id": "imperatives",
-        "title": "Giving Instructions",
-        "cefr_level": "A1",
-        "cando": "I can give simple commands, tips, or requests.",
-        "definition": "Sentences used to tell someone what to do.",
-        "tip": "Great for work or school collaborations.",
+        "title": "Imperative Sentences",
+        "definition": "An imperative sentence is used to give commands, instructions, or requests.",
+        "tip": "Very common in spoken instructions and daily interactions.",
         "examples": [
-          { "s": "Please wait here.", "n": "A polite and direct instruction." }
+          { "s": "Please wait here for a moment.", "n": "This is an imperative sentence; verb used in base form." },
+          { "s": "Take the left turn after the signal.", "n": "This is an imperative sentence; subject is implied." },
+          { "s": "Check the bill before you pay.", "n": "This is an imperative sentence; used for advice." }
         ]
       },
       {
         "id": "questions_yes_no",
-        "title": "Asking Simple Questions",
-        "cefr_level": "A1",
-        "cando": "I can ask basic questions to get information.",
-        "definition": "Questions that require a 'yes' or 'no' answer.",
-        "tip": "The easiest way to start a conversation.",
+        "title": "Yes/No Questions",
+        "definition": "Yes/No questions are formed using an auxiliary verb and are answered with yes or no.",
+        "tip": "Essential for spoken interaction and clarification.",
         "examples": [
-          { "s": "Do you want coffee?", "n": "A quick way to check a preference." }
+          { "s": "Do you want coffee?", "n": "'Do' is an auxiliary verb; used to form a yes/no question." },
+          { "s": "Is this seat available?", "n": "'Is' is an auxiliary verb; used before the subject." },
+          { "s": "Are they leaving today?", "n": "'Are' is an auxiliary verb; used in question formation." }
+        ]
+      },
+      {
+        "id": "wh_questions",
+        "title": "Wh-Questions",
+        "definition": "Wh-questions are formed using interrogative words to obtain specific information.",
+        "tip": "Common wh-words include who, what, where, when, why, and how.",
+        "examples": [
+          { "s": "Where are you staying tonight?", "n": "'Where' is used to ask about place." },
+          { "s": "Why did you choose this option?", "n": "'Why' is used to ask for a reason." },
+          { "s": "How much does this cost?", "n": "'How much' is used to ask about quantity or price." }
         ]
       },
       {
         "id": "there_is_are",
-        "title": "Describing Availability",
-        "cefr_level": "A1",
-        "cando": "I can talk about what exists in a space.",
-        "definition": "Used to say that something exists or is available.",
-        "tip": "Very useful for describing new places.",
+        "title": "There is / There are",
+        "definition": "‘There is’ and ‘there are’ are used to introduce the existence of something.",
+        "tip": "Used commonly while describing places or availability.",
         "examples": [
-          { "s": "There is a café nearby.", "n": "Confirms the existence of a place." }
+          { "s": "There is a café nearby.", "n": "'There is' is an existential construction; singular noun." },
+          { "s": "There are many shops in this area.", "n": "'There are' is an existential construction; plural noun." },
+          { "s": "There is no parking here.", "n": "'There is' is used with an uncountable noun." }
+        ]
+      },
+      {
+        "id": "simple_future",
+        "title": "Simple Future (will)",
+        "definition": "The simple future tense is used to describe actions, decisions, predictions, or events that will happen in the future.",
+        "tip": "Use 'will' for predictions, promises, offers, and decisions made at the moment of speaking.",
+        "examples": [
+          { "s": "I will call you after the meeting.", "n": "'Will call' is a future verb phrase." },
+          { "s": "She will arrive tomorrow morning.", "n": "'Will arrive' describes a future action." },
+          { "s": "We will discuss the proposal later.", "n": "'Will discuss' refers to a future event." }
         ]
       }
     ]
   },
   "intermediate": {
     "title": "Intermediate Grammar",
-    "goal": "Use grammar accurately in real-world conversations.",
+    "goal": "Use grammar accurately in extended spoken English and real conversations.",
     "topics": [
       {
         "id": "simple_past",
-        "title": "Talking About the Past",
-        "cefr_level": "A2",
-        "cando": "I can describe things I finished doing.",
-        "definition": "Used for actions that happened and ended in the past.",
-        "tip": "Use this for telling stories or sharing past experiences.",
+        "title": "Simple Past Tense",
+        "definition": "The simple past tense is used to express actions or events that were completed at a definite time in the past.",
+        "tip": "Often used in spoken English to describe experiences and completed actions.",
         "examples": [
-          { "s": "I visited the museum.", "n": "This event is finished." }
+          { "s": "I visited the museum last weekend.", "n": "'Visited' is a main verb in the simple past tense." },
+          { "s": "We ordered dinner after the movie ended.", "n": "'Ordered' is a verb in the simple past tense." },
+          { "s": "She missed the train this morning.", "n": "'Missed' is a verb in the simple past tense." }
         ]
       },
       {
         "id": "past_continuous",
-        "title": "Setting the Scene",
-        "cefr_level": "B1",
-        "cando": "I can describe what was happening at a specific time.",
-        "definition": "Used to describe a past action in progress.",
-        "tip": "Good for explaining background events.",
+        "title": "Past Continuous Tense",
+        "definition": "The past continuous tense is used to describe an action that was in progress at a specific time in the past.",
+        "tip": "Often used to set background actions in conversations.",
         "examples": [
-          { "s": "I was cooking when you called.", "n": "Sets the scene for an interruption." }
+          { "s": "I was cooking when you called.", "n": "'Was cooking' is a verb phrase in the past continuous tense." },
+          { "s": "They were travelling during the holiday season.", "n": "'Were travelling' is a verb phrase in the past continuous tense." },
+          { "s": "She was waiting at the counter.", "n": "'Was waiting' is a verb phrase in the past continuous tense." }
         ]
       },
       {
         "id": "present_perfect",
-        "title": "Discussing Experiences",
-        "cefr_level": "B1",
-        "cando": "I can talk about experiences without needing a specific time.",
-        "definition": "Used to connect the past to the present.",
-        "tip": "Great for talking about life achievements or tasks finished.",
+        "title": "Present Perfect Tense",
+        "definition": "The present perfect tense is used to describe actions that occurred at an unspecified time in the past or that have relevance to the present.",
+        "tip": "Common in spoken English when the exact time is not important.",
         "examples": [
-          { "s": "I have tried this restaurant.", "n": "Focuses on your past experience." }
+          { "s": "I have tried this restaurant before.", "n": "'Have tried' is a verb phrase in the present perfect tense." },
+          { "s": "She has booked the tickets already.", "n": "'Has booked' is a verb phrase in the present perfect tense." },
+          { "s": "We have finished our shopping.", "n": "'Have finished' is a verb phrase in the present perfect tense." }
         ]
       },
       {
         "id": "comparatives_superlatives",
-        "title": "Making Comparisons",
-        "cefr_level": "A2",
-        "cando": "I can compare people, places, and things.",
-        "definition": "Used to see which is better, faster, or different.",
-        "tip": "Helpful when giving your opinion or making choices.",
+        "title": "Comparatives and Superlatives",
+        "definition": "Comparatives are used to compare two nouns, while superlatives are used to compare more than two nouns.",
+        "tip": "Frequently used while giving opinions in spoken English.",
         "examples": [
-          { "s": "This is the best hotel.", "n": "Compares one to all others." }
+          { "s": "This café is cheaper than the one near my office.", "n": "'Cheaper' is a comparative adjective." },
+          { "s": "This is the best hotel in the area.", "n": "'Best' is a superlative adjective." },
+          { "s": "Traveling by train is faster than driving.", "n": "'Faster' is a comparative adjective." }
         ]
       },
       {
         "id": "modal_verbs",
-        "title": "Giving Advice & Rules",
-        "cefr_level": "A2",
-        "cando": "I can express ability, rules, or give suggestions.",
-        "definition": "Small verbs that add meaning like 'can' or 'must'.",
-        "tip": "These are key for professional communication.",
+        "title": "Modal Verbs (can, should, must)",
+        "definition": "Modal verbs are auxiliary verbs used to express ability, obligation, permission, or possibility.",
+        "tip": "Very common in spoken advice and suggestions.",
         "examples": [
-          { "s": "You should try the food.", "n": "Provides a polite suggestion." }
+          { "s": "You can pay by card here.", "n": "'Can' is a modal verb expressing possibility." },
+          { "s": "You should try the local food.", "n": "'Should' is a modal verb expressing advice." },
+          { "s": "You must show your ticket at the entrance.", "n": "'Must' is a modal verb expressing obligation." }
         ]
       },
       {
-        "id": "wh_questions",
-        "title": "Getting Details",
-        "cefr_level": "A1",
-        "cando": "I can ask for detailed information using wh- words.",
-        "definition": "Questions using who, what, where, why, and how.",
-        "tip": "Essential for understanding a situation fully.",
+        "id": "wh_questions_int",
+        "title": "Wh-Questions",
+        "definition": "Wh-questions are formed using interrogative words to obtain specific information.",
+        "tip": "Essential for detailed spoken communication.",
         "examples": [
-          { "s": "Where are you staying?", "n": "Asks for a specific location." }
+          { "s": "Where are you staying tonight?", "n": "'Where' is an interrogative word used in a wh-question." },
+          { "s": "Why did you choose this place?", "n": "'Why' is an interrogative word used to ask for reasons." },
+          { "s": "How much does this cost?", "n": "'How much' is an interrogative phrase used in a wh-question." }
         ]
       },
       {
         "id": "conditionals_zero_first",
-        "title": "Talking About Outcomes",
-        "cefr_level": "B1",
-        "cando": "I can explain results based on certain conditions.",
-        "definition": "Used to describe what happens if something else happens.",
-        "tip": "Excellent for making plans or setting expectations.",
+        "title": "Zero and First Conditionals",
+        "definition": "Zero and first conditionals are used to talk about real and possible situations and their results.",
+        "tip": "Common in spoken English for plans and outcomes.",
         "examples": [
-          { "s": "If it rains, we stay inside.", "n": "Explains a simple cause-and-effect result." }
+          { "s": "If it rains, we stay indoors.", "n": "This is a zero conditional sentence." },
+          { "s": "If I finish early, I will call you.", "n": "This is a first conditional sentence." },
+          { "s": "If the shop is open, we will go inside.", "n": "This is a first conditional sentence." }
+        ]
+      },
+      {
+        "id": "future_plans",
+        "title": "Future Plans",
+        "definition": "Future plans are expressed using structures such as 'be going to' to describe intentions and planned actions.",
+        "tip": "Use 'going to' when a plan or intention already exists before speaking.",
+        "examples": [
+          { "s": "I am going to start a new course next month.", "n": "'Am going to start' expresses a planned action." },
+          { "s": "They are going to move to a new office soon.", "n": "'Are going to move' expresses a future intention." },
+          { "s": "She is going to apply for the position.", "n": "'Is going to apply' shows a planned decision." }
+        ]
+      },
+      {
+        "id": "present_continuous_future",
+        "title": "Present Continuous for Future",
+        "definition": "The present continuous tense can be used to talk about future arrangements that have already been organized.",
+        "tip": "Commonly used for appointments, meetings, travel, and scheduled plans.",
+        "examples": [
+          { "s": "I am meeting the client tomorrow.", "n": "'Am meeting' refers to a future arrangement." },
+          { "s": "We are flying to Berlin next week.", "n": "'Are flying' describes a planned future event." },
+          { "s": "She is starting her new role on Monday.", "n": "'Is starting' expresses a confirmed future plan." }
+        ]
+      },
+      {
+        "id": "basic_passive_voice",
+        "title": "Basic Passive Voice",
+        "definition": "The passive voice is used when the focus is on the action or result rather than on the person performing the action.",
+        "tip": "The passive voice is formed using a form of 'be' and a past participle.",
+        "examples": [
+          { "s": "The report was completed yesterday.", "n": "'Was completed' is a passive verb phrase." },
+          { "s": "The meeting is scheduled for Friday.", "n": "'Is scheduled' focuses on the event rather than the person." },
+          { "s": "The documents were sent by email.", "n": "'Were sent' is a passive construction." }
+        ]
+      },
+      {
+        "id": "reported_speech",
+        "title": "Reported Speech",
+        "definition": "Reported speech is used to report what someone said without repeating their exact words.",
+        "tip": "Reported speech is commonly used when sharing information, messages, and conversations.",
+        "examples": [
+          { "s": "She said that she was busy.", "n": "'Said that' introduces reported speech." },
+          { "s": "He told me that the meeting had started.", "n": "'Told me that' reports another person's statement." },
+          { "s": "They explained that the project was delayed.", "n": "'Explained that' is used to report information." }
         ]
       }
     ]
