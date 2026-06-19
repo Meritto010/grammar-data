@@ -1,7 +1,7 @@
 {
   "basics": {
     "title": "Grammar Basics-UPDATED",
-    "goal": "Build an strong foundation in essential grammar for clear and natural spoken English.",
+    "goal": "Build a strong foundation in essential grammar for clear and natural spoken English.",
     "topics": [
       {
         "id": "word_classes",
@@ -26,6 +26,17 @@
         ]
       },
       {
+        "id": "nouns",
+        "title": "Nouns",
+        "definition": "A noun is a word that names a person, place, thing, or abstract idea.",
+        "tip": "Clear use of nouns helps listeners understand who or what is being discussed.",
+        "examples": [
+          { "s": "The market opens early on weekends.", "n": "'Market' is a singular countable noun; used here as the subject." },
+          { "s": "The streets are crowded during festivals.", "n": "'Streets' is a plural noun; used here with a plural verb." },
+          { "s": "Information is easy to find online now.", "n": "'Information' is an uncountable noun; used here without a plural form." }
+        ]
+      },
+      {
         "id": "pronouns",
         "title": "Pronouns",
         "definition": "A pronoun is a word that functions as a noun and substitutes for a noun or noun phrase in a sentence.",
@@ -37,25 +48,14 @@
         ]
       },
       {
-        "id": "determiners_quantifiers",
-        "title": "Determiners and Quantifiers",
-        "definition": "Determiners and quantifiers are words placed before nouns to limit, specify, or indicate quantity.",
-        "tip": "They help make meaning precise in everyday conversation.",
+        "id": "verbs",
+        "title": "Verbs",
+        "definition": "A verb is a word that expresses an action, occurrence, or state of being.",
+        "tip": "Verbs are central to spoken sentences and show what is happening.",
         "examples": [
-          { "s": "This restaurant gets very busy in the evening.", "n": "'This' is a demonstrative determiner; used here to specify a noun." },
-          { "s": "Some people prefer tea after meals.", "n": "'Some' is a quantifier; used here with a plural noun." },
-          { "s": "Many travelers visit the city during summer.", "n": "'Many' is a quantifier; used here with a countable plural noun." }
-        ]
-      },
-      {
-        "id": "possessives",
-        "title": "Possessives",
-        "definition": "Possessive forms are used to indicate ownership or a relationship between nouns.",
-        "tip": "Possessives are common in spoken English when referring to personal items or relationships.",
-        "examples": [
-          { "s": "This is my favorite café near home.", "n": "'My' is a possessive adjective; used here to show ownership." },
-          { "s": "Her bag is on the chair by the door.", "n": "'Her' is a possessive adjective; used here to modify a noun." },
-          { "s": "Their flight was delayed because of the weather.", "n": "'Their' is a possessive adjective; used here with a plural subject." }
+          { "s": "I enjoy cooking at home on weekends.", "n": "'Enjoy' is a verb; used here to express an action." },
+          { "s": "She travels often for short vacations.", "n": "'Travels' is a verb; used here in the present simple tense." },
+          { "s": "They are ready to leave now.", "n": "'Are' is a verb; used here to express a state of being." }
         ]
       },
       {
@@ -81,25 +81,25 @@
         ]
       },
       {
-        "id": "nouns",
-        "title": "Nouns",
-        "definition": "A noun is a word that names a person, place, thing, or abstract idea.",
-        "tip": "Clear use of nouns helps listeners understand who or what is being discussed.",
+        "id": "determiners_quantifiers",
+        "title": "Determiners and Quantifiers",
+        "definition": "Determiners and quantifiers are words placed before nouns to limit, specify, or indicate quantity.",
+        "tip": "They help make meaning precise in everyday conversation.",
         "examples": [
-          { "s": "The market opens early on weekends.", "n": "'Market' is a singular countable noun; used here as the subject." },
-          { "s": "The streets are crowded during festivals.", "n": "'Streets' is a plural noun; used here with a plural verb." },
-          { "s": "Information is easy to find online now.", "n": "'Information' is an uncountable noun; used here without a plural form." }
+          { "s": "This restaurant gets very busy in the evening.", "n": "'This' is a demonstrative determiner; used here to specify a noun." },
+          { "s": "Some people prefer tea after meals.", "n": "'Some' is a quantifier; used here with a plural noun." },
+          { "s": "Many travelers visit the city during summer.", "n": "'Many' is a quantifier; used here with a countable plural noun." }
         ]
       },
       {
-        "id": "verbs",
-        "title": "Verbs",
-        "definition": "A verb is a word that expresses an action, occurrence, or state of being.",
-        "tip": "Verbs are central to spoken sentences and show what is happening.",
+        "id": "possessives",
+        "title": "Possessives",
+        "definition": "Possessive forms are used to indicate ownership or a relationship between nouns.",
+        "tip": "Possessives are common in spoken English when referring to personal items or relationships.",
         "examples": [
-          { "s": "I enjoy cooking at home on weekends.", "n": "'Enjoy' is a verb; used here to express an action." },
-          { "s": "She travels often for short vacations.", "n": "'Travels' is a verb; used here in the present simple tense." },
-          { "s": "They are ready to leave now.", "n": "'Are' is a verb; used here to express a state of being." }
+          { "s": "This is my favorite café near home.", "n": "'My' is a possessive adjective; used here to show ownership." },
+          { "s": "Her bag is on the chair by the door.", "n": "'Her' is a possessive adjective; used here to modify a noun." },
+          { "s": "Their flight was delayed because of the weather.", "n": "'Their' is a possessive adjective; used here with a plural subject." }
         ]
       }
     ]
